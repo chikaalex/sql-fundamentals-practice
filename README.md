@@ -54,4 +54,4 @@ The SQL script includes:
 
 ## Note
 
-This project was created to strengthen core SQL skills commonly used in data analysis, data preparation, and AI/ML workflows.
+This project was created to demonstrate core SQL skills commonly used in data analysis, data preparation, and AI/ML workflows.
